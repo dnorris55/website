@@ -1,0 +1,1088 @@
+0 HEAD
+1 SOUR FamilyOrigins
+2 NAME Family Origins(R) for Windows
+2 VERS 6.0
+2 CORP FormalSoft, Inc.
+1 DEST DISKETTE
+1 DATE 26 JUN 1998
+1 SUBM @SUB1@
+1 FILE DEBRA.GED
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR ANSI
+0 @SUB1@ SUBM
+1 NAME David Alan Norris
+1 ADDR 1519 Thomas Hollow Road
+2 CONT Lucasville, OH 45648
+1 PHON 740-259-5657
+1 _EMAIL dnorris@zoomnet.net
+0 @I2@ INDI
+1 NAME Debra Lee /Wheeler/
+2 GIVN Debra Lee
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE 19 JUL 1959
+2 PLAC Washington, PA
+1 FAMC @F3@
+0 @I6@ INDI
+1 NAME Shirley Ann /Newman/
+2 GIVN Shirley Ann
+2 SURN Newman
+1 SEX F
+1 BIRT
+2 DATE 15 JUN 1939
+2 PLAC West Alexander, PA
+1 FAMS @F3@
+1 FAMC @F10@
+0 @I7@ INDI
+1 NAME William David /Wheeler/
+2 GIVN William David
+2 SURN Wheeler
+2 NSFX Jr.
+1 SEX M
+1 TITL Jr.
+1 BIRT
+2 DATE 29 JUL 1939
+2 PLAC Washington, PA
+1 FAMS @F3@
+1 FAMC @F9@
+0 @I20@ INDI
+1 NAME William David /Wheeler/
+2 GIVN William David
+2 SURN Wheeler
+2 NSFX Sr.
+1 SEX M
+1 TITL Sr.
+1 BIRT
+2 DATE 11 DEC 1912
+2 PLAC Washington, PA
+1 DEAT
+2 DATE 26 OCT 1991
+2 PLAC Glendale, WV
+1 BURI
+2 DATE 28 OCT 1991
+2 PLAC Washington Cem
+1 FAMS @F9@
+1 FAMC @F97@
+0 @I21@ INDI
+1 NAME Emma Alice /Baldwin/
+2 GIVN Emma Alice
+2 SURN Baldwin
+1 SEX F
+1 BIRT
+2 DATE 10 AUG 1919
+2 PLAC Washington, PA
+1 DEAT
+2 DATE 30 NOV 1996
+2 PLAC Canonsburg, PA
+1 BURI
+2 DATE 2 DEC 1996
+2 PLAC Claysville, PA
+1 FAMS @F9@
+1 FAMC @F82@
+0 @I22@ INDI
+1 NAME James Arthur /Newman/
+2 GIVN James Arthur
+2 SURN Newman
+1 SEX M
+1 BIRT
+2 DATE 7 NOV 1914
+1 DEAT
+2 DATE 2 FEB 1983
+2 PLAC Claysville, PA
+1 BURI
+2 PLAC West Alexander, PA
+1 FAMS @F10@
+1 FAMC @F86@
+0 @I23@ INDI
+1 NAME Nannie Rebecca /Main/
+2 GIVN Nannie Rebecca
+2 SURN Main
+1 SEX F
+1 BIRT
+2 DATE 25 JAN 1917
+1 FAMS @F10@
+1 FAMC @F28@
+0 @I44@ INDI
+1 NAME Darlene Sue /Wheeler/
+2 GIVN Darlene Sue
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE 13 FEB 1963
+2 PLAC Lexington, KY
+1 FAMC @F3@
+0 @I66@ INDI
+1 NAME Mrytle Lea /Craig/
+2 GIVN Mrytle Lea
+2 SURN Craig
+1 SEX F
+1 BIRT
+2 DATE 13 OCT 1894
+1 DEAT
+2 DATE 17 JUL 1988
+1 FAMS @F28@
+1 FAMC @F84@
+0 @I217@ INDI
+1 NAME Jackie Lee /Wheeler/
+2 GIVN Jackie Lee
+2 SURN Wheeler
+1 SEX M
+1 BIRT
+2 DATE 5 NOV 1940
+2 PLAC Washington, PA
+1 FAMC @F9@
+0 @I218@ INDI
+1 NAME Donald Kenneth /Wheeler/
+2 GIVN Donald Kenneth
+2 SURN Wheeler
+1 SEX M
+1 BIRT
+2 DATE 19 APR 1947
+2 PLAC Washington, PA
+1 FAMC @F9@
+0 @I224@ INDI
+1 NAME Carol Jean /Wheeler/
+2 GIVN Carol Jean
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE 6 FEB 1949
+2 PLAC Washington, PA
+1 FAMC @F9@
+0 @I225@ INDI
+1 NAME Rebecca Jane /Wheeler/
+2 GIVN Rebecca Jane
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE 14 OCT 1943
+2 PLAC Washington, PA
+1 FAMC @F9@
+0 @I234@ INDI
+1 NAME Leroy /Newman/
+2 GIVN Leroy
+2 SURN Newman
+1 SEX M
+1 FAMC @F10@
+0 @I235@ INDI
+1 NAME John /Newman/
+2 GIVN John
+2 SURN Newman
+1 SEX M
+1 FAMC @F10@
+0 @I236@ INDI
+1 NAME Betty Jane /Newman/
+2 GIVN Betty Jane
+2 SURN Newman
+1 SEX F
+1 FAMC @F10@
+0 @I237@ INDI
+1 NAME Mrytle Marie /Newman/
+2 GIVN Mrytle Marie
+2 SURN Newman
+1 SEX F
+1 FAMC @F10@
+0 @I238@ INDI
+1 NAME William /Newman/
+2 GIVN William
+2 SURN Newman
+1 SEX M
+1 FAMC @F10@
+0 @I264@ INDI
+1 NAME Mabel /Alexander/
+2 GIVN Mabel
+2 SURN Alexander
+1 SEX F
+1 FAMS @F82@
+0 @I266@ INDI
+1 NAME Nannie /Reed/
+2 GIVN Nannie
+2 SURN Reed
+1 SEX F
+1 BIRT
+2 DATE 13 OCT 1868
+1 DEAT
+2 DATE 5 JAN 1933
+1 FAMS @F84@
+1 FAMC @F85@
+0 @I267@ INDI
+1 NAME Lee /Main/
+2 GIVN Lee
+2 SURN Main
+1 SEX M
+1 FAMS @F89@
+1 FAMC @F90@
+0 @I268@ INDI
+1 NAME Gertrude /Prigg/
+2 GIVN Gertrude
+2 SURN Prigg
+1 SEX F
+1 FAMS @F85@
+0 @I269@ INDI
+1 NAME David /Newman/
+2 GIVN David
+2 SURN Newman
+1 SEX M
+1 BIRT
+2 DATE 5 SEP 1865
+1 DEAT
+2 DATE 1 JUN 1951
+1 FAMS @F86@
+1 FAMC @F87@
+0 @I270@ INDI
+1 NAME Andrew /Newman/
+2 GIVN Andrew
+2 SURN Newman
+1 SEX M
+1 DEAT
+2 DATE 19 APR 1930
+1 FAMS @F87@
+0 @I271@ INDI
+1 NAME Benjamin /Main/
+2 GIVN Benjamin
+2 SURN Main
+1 SEX M
+1 BIRT
+2 DATE 2 JAN 1884
+1 DEAT
+2 DATE 2 JUL 1972
+1 FAMS @F28@
+1 FAMC @F89@
+0 @I272@ INDI
+1 NAME Elebesetha Lizzie /Ackly/
+2 GIVN Elebesetha Lizzie
+2 SURN Ackly
+1 SEX F
+1 BIRT
+2 DATE 14 JAN 1815
+1 DEAT
+2 DATE 9 SEP 1946
+1 FAMS @F86@
+1 FAMC @F88@
+0 @I273@ INDI
+1 NAME John /Ackley/
+2 GIVN John
+2 SURN Ackley
+1 SEX M
+1 FAMS @F88@
+0 @I274@ INDI
+1 NAME Chartley /Jewell/
+2 GIVN Chartley
+2 SURN Jewell
+1 SEX F
+1 FAMS @F88@
+0 @I275@ INDI
+1 NAME Sybess /Main/
+2 GIVN Sybess
+2 SURN Main
+1 SEX M
+1 FAMS @F90@
+0 @I276@ INDI
+1 NAME Rebecca /Kiger/
+2 GIVN Rebecca
+2 SURN Kiger
+1 SEX F
+1 DEAT
+2 DATE 7 JUN 1941
+1 FAMS @F89@
+0 @I287@ INDI
+1 NAME Kenneth /Baldwin/
+2 GIVN Kenneth
+2 SURN Baldwin
+1 SEX M
+1 FAMC @F82@
+0 @I288@ INDI
+1 NAME Donald /Baldwin/
+2 GIVN Donald
+2 SURN Baldwin
+1 SEX M
+1 FAMC @F82@
+0 @I293@ INDI
+1 NAME Ernest Winnett /Wheeler/
+2 GIVN Ernest Winnett
+2 SURN Wheeler
+1 SEX M
+1 BIRT
+2 DATE 7 MAR 1887
+2 PLAC cincinnati,OH
+1 DEAT
+2 DATE ABT 25 OCT 1964
+2 PLAC Washington, PA
+1 FAMS @F97@
+1 FAMC @F96@
+0 @I294@ INDI
+1 NAME Emma /wheeler/
+2 GIVN Emma
+2 SURN wheeler
+1 SEX F
+1 FAMC @F96@
+0 @I295@ INDI
+1 NAME Samuel /Wheeler/
+2 GIVN Samuel
+2 SURN Wheeler
+1 SEX M
+1 BIRT
+2 DATE ABT 1853
+2 PLAC PA
+1 DEAT
+2 DATE 1887
+2 PLAC cincinnati,OH
+1 FAMS @F96@
+1 FAMC @F98@
+0 @I296@ INDI
+1 NAME Effie /Kling/
+2 GIVN Effie
+2 SURN Kling
+1 SEX F
+1 BIRT
+2 PLAC Prussia?
+1 DEAT
+2 PLAC Massilon, Oh?
+1 FAMS @F96@
+0 @I297@ INDI
+1 NAME Minnie Belle /Myers/
+2 GIVN Minnie Belle
+2 SURN Myers
+1 SEX F
+1 BIRT
+2 DATE 21 JUN 1888
+2 PLAC Sand Hill, WV
+1 DEAT
+2 DATE 20 JUL 1935
+2 PLAC Washington Cem
+1 FAMS @F97@
+0 @I300@ INDI
+1 NAME Viola Blanche (Vee) /Wheeler/
+2 GIVN Viola Blanche (Vee)
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE 29 JUN 1905
+2 PLAC Washington, PA
+1 DEAT
+2 DATE 21 MAY 1988
+2 PLAC Washington, PA
+1 FAMC @F97@
+0 @I301@ INDI
+1 NAME Mildred Elizabeth /Wheeler/
+2 GIVN Mildred Elizabeth
+2 SURN Wheeler
+1 SEX F
+1 DEAT
+2 DATE 31 MAY 1907
+1 FAMC @F97@
+0 @I302@ INDI
+1 NAME Ernest F. /Wheeler/
+2 GIVN Ernest F.
+2 SURN Wheeler
+1 SEX M
+1 BIRT
+2 DATE 1909
+2 PLAC Washington, PA
+1 DEAT
+2 DATE 21 APR 1910
+2 PLAC Washington, PA
+1 FAMC @F97@
+0 @I303@ INDI
+1 NAME infant /Wheeler/
+2 GIVN infant
+2 SURN Wheeler
+1 FAMC @F97@
+0 @I304@ INDI
+1 NAME Thelma Elnora /Wheeler/
+2 GIVN Thelma Elnora
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE 28 DEC 1910
+1 FAMC @F97@
+0 @I305@ INDI
+1 NAME Helen Irene (rene) /Wheeler/
+2 GIVN Helen Irene (rene)
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE 9 MAY 1915
+1 FAMC @F97@
+0 @I306@ INDI
+1 NAME Evelyn Elizabeth (Evie) /Wheeler/
+2 GIVN Evelyn Elizabeth (Evie)
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE 17 MAR 1917
+1 DEAT
+2 DATE 16 JUL 1986
+2 PLAC Pittsburgh, PA
+1 FAMC @F97@
+0 @I307@ INDI
+1 NAME Mamie B. /Wheeler/
+2 GIVN Mamie B.
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE 1919
+2 PLAC Washington, PA
+1 DEAT
+2 DATE 14 APR 1919
+2 PLAC Washington, PA
+1 FAMC @F97@
+0 @I308@ INDI
+1 NAME Minnie Mauveline /Wheeler/
+2 GIVN Minnie Mauveline
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE 12 APR 1921
+2 PLAC Washington, PA
+1 DEAT
+2 DATE 1 APR 1984
+2 PLAC Washington, PA
+1 FAMC @F97@
+0 @I309@ INDI
+1 NAME James W. /Wheeler/
+2 GIVN James W.
+2 SURN Wheeler
+1 SEX M
+1 BIRT
+2 DATE 21 JUN 1922
+1 DEAT
+2 DATE 3 OCT 1922
+1 FAMC @F97@
+0 @I310@ INDI
+1 NAME Melvin Kenneth (Bud) /Wheeler/
+2 GIVN Melvin Kenneth (Bud)
+2 SURN Wheeler
+1 SEX M
+1 BIRT
+2 DATE 26 DEC 1925
+2 PLAC Washington, PA
+1 DEAT
+2 DATE 29 SEP 1939
+1 FAMC @F97@
+0 @I311@ INDI
+1 NAME Dorothy Marie /Wheeler/
+2 GIVN Dorothy Marie
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE 5 JUN 1926
+2 PLAC Washington, PA
+1 FAMC @F97@
+0 @I312@ INDI
+1 NAME Twilia May (Duck) /Wheeler/
+2 GIVN Twilia May (Duck)
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE 8 MAY 1929
+2 PLAC Vankirk Station, PA
+1 DEAT
+2 DATE 11 AUG 1986
+2 PLAC Warren, OH
+1 FAMC @F97@
+0 @I313@ INDI
+1 NAME Jackie L. /Wheeler/
+2 GIVN Jackie L.
+2 SURN Wheeler
+1 BIRT
+2 DATE 29 JUL 1930
+2 PLAC Washington, PA
+1 DEAT
+2 DATE 12 SEP 1930
+1 FAMC @F97@
+0 @I314@ INDI
+1 NAME James N. /Wheeler/
+2 GIVN James N.
+2 SURN Wheeler
+1 SEX M
+1 BIRT
+2 DATE ABT 1830
+2 PLAC PA
+1 DEAT
+2 PLAC Dunkard-Letherman Cem, Wash Co
+1 FAMS @F98@
+0 @I315@ INDI
+1 NAME Catharine /Ward/
+2 GIVN Catharine
+2 SURN Ward
+1 SEX F
+1 BIRT
+2 DATE ABT 1832
+2 PLAC PA
+1 FAMS @F98@
+1 FAMC @F99@
+0 @I316@ INDI
+1 NAME Daniel /Wheeler/
+2 GIVN Daniel
+2 SURN Wheeler
+1 SEX M
+1 BIRT
+2 DATE ABT 1856
+2 PLAC PA
+1 FAMC @F98@
+0 @I317@ INDI
+1 NAME Emma /Wheeler/
+2 GIVN Emma
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE ABT 1857
+2 PLAC OH
+1 FAMC @F98@
+0 @I318@ INDI
+1 NAME William J. /Wheeler/
+2 GIVN William J.
+2 SURN Wheeler
+1 SEX M
+1 BIRT
+2 DATE 18 JAN 1858
+2 PLAC OH
+1 FAMC @F98@
+0 @I319@ INDI
+1 NAME John A. /Wheeler/
+2 GIVN John A.
+2 SURN Wheeler
+1 SEX M
+1 BIRT
+2 DATE 17 MAY 1863
+2 PLAC W. Bethleham twp, Washington Co, PA
+1 DEAT
+2 DATE 31 DEC 1940
+2 PLAC Washington, PA
+1 FAMC @F98@
+0 @I320@ INDI
+1 NAME Susan Virginia /Wheeler/
+2 GIVN Susan Virginia
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE 23 NOV 1862
+2 PLAC W. Bethleham twp, Washington Co, PA
+1 DEAT
+2 DATE 25 APR 1932
+2 PLAC Washington, PA
+1 FAMC @F98@
+0 @I321@ INDI
+1 NAME Laura /Wheeler/
+2 GIVN Laura
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE ABT 1866
+1 FAMC @F98@
+0 @I322@ INDI
+1 NAME Mary /Wheeler/
+2 GIVN Mary
+2 SURN Wheeler
+1 SEX F
+1 BIRT
+2 DATE ABT 1852
+2 PLAC PA
+1 FAMC @F98@
+0 @I323@ INDI
+1 NAME Daniel /Ward/
+2 GIVN Daniel
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE 17 MAR 1799
+2 PLAC MD
+1 DEAT
+2 DATE 26 SEP 1878
+2 PLAC Washington Co, PA
+1 FAMS @F99@
+0 @I324@ INDI
+1 NAME Catharine /Plymire/
+2 GIVN Catharine
+2 SURN Plymire
+1 SEX F
+1 BIRT
+2 DATE ABT 1804
+2 PLAC VA
+1 DEAT
+2 DATE 15 OCT 1869
+2 PLAC Washington Co, PA
+1 FAMS @F99@
+1 FAMC @F100@
+0 @I325@ INDI
+1 NAME Henry /Plymire/
+2 GIVN Henry
+2 SURN Plymire
+1 SEX M
+1 BIRT
+2 DATE ABT 1776
+2 PLAC Va or MD
+1 FAMS @F100@
+0 @I326@ INDI
+1 NAME  /unknown/
+2 SURN unknown
+1 SEX F
+1 FAMS @F100@
+0 @I327@ INDI
+1 NAME Henry, Jr /Plymire/
+2 GIVN Henry, Jr
+2 SURN Plymire
+1 FAMC @F100@
+0 @I328@ INDI
+1 NAME William /Plymire/
+2 GIVN William
+2 SURN Plymire
+1 SEX M
+1 FAMC @F100@
+0 @I329@ INDI
+1 NAME Samuel /Plymire/
+2 GIVN Samuel
+2 SURN Plymire
+1 SEX M
+1 FAMC @F100@
+0 @I330@ INDI
+1 NAME Adam /Plymire/
+2 GIVN Adam
+2 SURN Plymire
+1 SEX M
+1 FAMC @F100@
+0 @I331@ INDI
+1 NAME Barnabas /Plymire/
+2 GIVN Barnabas
+2 SURN Plymire
+1 FAMC @F100@
+0 @I332@ INDI
+1 NAME John /Plymire/
+2 GIVN John
+2 SURN Plymire
+1 SEX M
+1 FAMC @F100@
+0 @I333@ INDI
+1 NAME Joseph /Plymire/
+2 GIVN Joseph
+2 SURN Plymire
+1 SEX M
+1 FAMC @F100@
+0 @I334@ INDI
+1 NAME Henry /Ward/
+2 GIVN Henry
+2 SURN Ward
+1 SEX M
+1 BIRT
+2 DATE ABT 1838
+2 PLAC PA
+1 FAMC @F99@
+0 @I335@ INDI
+1 NAME Sarah /Ward/
+2 GIVN Sarah
+2 SURN Ward
+1 SEX F
+1 BIRT
+2 DATE ABT 1840
+1 FAMC @F99@
+0 @I336@ INDI
+1 NAME Susannah /Ward/
+2 GIVN Susannah
+2 SURN Ward
+1 SEX F
+1 BIRT
+2 DATE ABT 1841
+1 FAMC @F99@
+0 @I337@ INDI
+1 NAME Virginia /Ward/
+2 GIVN Virginia
+2 SURN Ward
+1 SEX F
+1 BIRT
+2 DATE ABT 1844
+1 FAMC @F99@
+0 @I396@ INDI
+1 NAME Joseph Guess /craig/
+2 GIVN Joseph Guess
+2 SURN craig
+1 SEX M
+1 BIRT
+2 DATE 1864
+1 DEAT
+2 DATE 1948
+1 OCCU Farmer
+1 FAMS @F84@
+1 FAMC @F125@
+0 @I397@ INDI
+1 NAME Roland /craig/
+2 GIVN Roland
+2 SURN craig
+1 SEX M
+1 BIRT
+2 DATE 1829
+1 DEAT
+2 DATE 1879
+1 BURI
+2 PLAC West Alexander, PA
+1 FAMS @F125@
+1 FAMC @F127@
+0 @I398@ INDI
+1 NAME Rachel /Slater/
+2 GIVN Rachel
+2 SURN Slater
+1 SEX F
+1 BIRT
+2 DATE 1835
+1 DEAT
+2 DATE 1871
+1 BURI
+2 PLAC West Alexander, PA
+1 FAMS @F125@
+0 @I399@ INDI
+1 NAME Laura M. /Craig/
+2 GIVN Laura M.
+2 SURN Craig
+1 SEX F
+1 BIRT
+2 DATE 1870
+1 DEAT
+2 DATE 1872
+1 FAMC @F84@
+0 @I400@ INDI
+1 NAME John Milton /craig/
+2 GIVN John Milton
+2 SURN craig
+1 SEX M
+1 BIRT
+2 DATE 1857
+1 DEAT
+2 DATE 1940
+1 FAMC @F84@
+0 @I401@ INDI
+1 NAME Roland /craig/
+2 GIVN Roland
+2 SURN craig
+1 SEX M
+1 BIRT
+2 DATE 1861
+1 DEAT
+2 DATE 1935
+1 FAMC @F84@
+0 @I402@ INDI
+1 NAME Clem /craig/
+2 GIVN Clem
+2 SURN craig
+1 SEX M
+1 FAMC @F84@
+0 @I403@ INDI
+1 NAME Will /craig/
+2 GIVN Will
+2 SURN craig
+1 SEX M
+1 FAMC @F84@
+0 @I404@ INDI
+1 NAME Hamilton /craig/
+2 GIVN Hamilton
+2 SURN craig
+1 SEX M
+1 FAMC @F84@
+0 @I405@ INDI
+1 NAME Wylie R. /craig/
+2 GIVN Wylie R.
+2 SURN craig
+1 SEX M
+1 BIRT
+2 DATE FEB 1887
+1 FAMC @F84@
+0 @I406@ INDI
+1 NAME Reed R. /craig/
+2 GIVN Reed R.
+2 SURN craig
+1 SEX M
+1 BIRT
+2 DATE DEC 1888
+1 FAMC @F84@
+0 @I407@ INDI
+1 NAME Frank C? /craig/
+2 GIVN Frank C?
+2 SURN craig
+1 SEX M
+1 BIRT
+2 DATE FEB 1896
+1 FAMC @F84@
+0 @I408@ INDI
+1 NAME James Sy?? /craig/
+2 GIVN James Sy??
+2 SURN craig
+1 SEX M
+1 BIRT
+2 DATE MAY 1898
+1 FAMC @F84@
+0 @I409@ INDI
+1 NAME Hamilton /craig/
+2 GIVN Hamilton
+2 SURN craig
+1 SEX M
+1 FAMC @F125@
+0 @I410@ INDI
+1 NAME John 2 /craig/
+2 GIVN John 2
+2 SURN craig
+1 SEX M
+1 DEAT
+2 DATE 30 SEP 1864
+1 OCCU Tavern keeper
+2 PLAC National Pike 2 miles East of West Alexander
+1 RESI West Finley Twp, near the WV state line
+1 RESI 1/2 miles South of Tollgate 6 on the National Pike
+1 FAMS @F127@
+1 FAMC @F128@
+0 @I412@ INDI
+1 NAME Eleanor /Craig/
+2 GIVN Eleanor
+2 SURN Craig
+1 SEX F
+1 DEAT
+2 DATE 1852
+1 FAMS @F127@
+0 @I413@ INDI
+1 NAME Jane /craig/
+2 GIVN Jane
+2 SURN craig
+1 SEX F
+1 FAMC @F127@
+0 @I414@ INDI
+1 NAME William /craig/
+2 GIVN William
+2 SURN craig
+1 SEX M
+1 FAMC @F127@
+0 @I415@ INDI
+1 NAME John 3 /craig/
+2 GIVN John 3
+2 SURN craig
+1 SEX M
+1 FAMC @F127@
+0 @I416@ INDI
+1 NAME Eleanor /craig/
+2 GIVN Eleanor
+2 SURN craig
+1 SEX F
+1 FAMC @F127@
+0 @I417@ INDI
+1 NAME Mary /craig/
+2 GIVN Mary
+2 SURN craig
+1 SEX F
+1 FAMC @F127@
+0 @I418@ INDI
+1 NAME Samuel /craig/
+2 GIVN Samuel
+2 SURN craig
+1 SEX M
+1 FAMC @F127@
+0 @I419@ INDI
+1 NAME James /craig/
+2 GIVN James
+2 SURN craig
+1 SEX M
+1 FAMC @F127@
+0 @I420@ INDI
+1 NAME Margaret /craig/
+2 GIVN Margaret
+2 SURN craig
+1 SEX F
+1 FAMC @F127@
+0 @I422@ INDI
+1 NAME Lee /Main/
+2 GIVN Lee
+2 SURN Main
+1 SEX M
+1 FAMC @F28@
+0 @I423@ INDI
+1 NAME Marvin /Main/
+2 GIVN Marvin
+2 SURN Main
+1 SEX M
+1 FAMC @F28@
+0 @I424@ INDI
+1 NAME Ruth /Main/
+2 GIVN Ruth
+2 SURN Main
+1 SEX F
+1 FAMC @F28@
+0 @I425@ INDI
+1 NAME Gertrude /Main/
+2 GIVN Gertrude
+2 SURN Main
+1 SEX F
+1 FAMC @F28@
+0 @I426@ INDI
+1 NAME John 1 /craig/
+2 GIVN John 1
+2 SURN craig
+1 SEX M
+1 BIRT
+2 PLAC Donegal, Ire
+1 FAMS @F128@
+0 @I427@ INDI
+1 NAME Rebecca /Stevens/
+2 GIVN Rebecca
+2 SURN Stevens
+1 SEX F
+1 FAMS @F128@
+0 @F3@ FAM
+1 HUSB @I7@
+1 WIFE @I6@
+1 CHIL @I2@
+1 CHIL @I44@
+1 MARR
+2 DATE 7 JUN 1958
+2 PLAC West Alexander, PA
+1 DIV
+2 DATE 1990
+0 @F9@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 CHIL @I217@
+1 CHIL @I218@
+1 CHIL @I224@
+1 CHIL @I225@
+1 CHIL @I7@
+1 MARR
+2 DATE 31 JAN 1938
+1 DIV
+0 @F10@ FAM
+1 HUSB @I22@
+1 WIFE @I23@
+1 CHIL @I234@
+1 CHIL @I6@
+1 CHIL @I236@
+1 CHIL @I235@
+1 CHIL @I237@
+1 CHIL @I238@
+0 @F28@ FAM
+1 HUSB @I271@
+1 WIFE @I66@
+1 CHIL @I422@
+1 CHIL @I423@
+1 CHIL @I23@
+1 CHIL @I424@
+1 CHIL @I425@
+0 @F82@ FAM
+1 WIFE @I264@
+1 CHIL @I21@
+1 CHIL @I288@
+1 CHIL @I287@
+0 @F84@ FAM
+1 HUSB @I396@
+1 WIFE @I266@
+1 CHIL @I400@
+1 CHIL @I401@
+1 CHIL @I399@
+1 CHIL @I402@
+1 CHIL @I66@
+1 CHIL @I403@
+1 CHIL @I404@
+1 CHIL @I405@
+1 CHIL @I406@
+1 CHIL @I407@
+1 CHIL @I408@
+0 @F85@ FAM
+1 WIFE @I268@
+1 CHIL @I266@
+0 @F86@ FAM
+1 HUSB @I269@
+1 WIFE @I272@
+1 CHIL @I22@
+0 @F87@ FAM
+1 HUSB @I270@
+1 CHIL @I269@
+0 @F88@ FAM
+1 HUSB @I273@
+1 WIFE @I274@
+1 CHIL @I272@
+0 @F89@ FAM
+1 HUSB @I267@
+1 WIFE @I276@
+1 CHIL @I271@
+0 @F90@ FAM
+1 HUSB @I275@
+1 CHIL @I267@
+0 @F96@ FAM
+1 HUSB @I295@
+1 WIFE @I296@
+1 CHIL @I294@
+1 CHIL @I293@
+1 MARR
+0 @F97@ FAM
+1 HUSB @I293@
+1 WIFE @I297@
+1 CHIL @I300@
+1 CHIL @I302@
+1 CHIL @I304@
+1 CHIL @I20@
+1 CHIL @I305@
+1 CHIL @I301@
+1 CHIL @I303@
+1 CHIL @I306@
+1 CHIL @I307@
+1 CHIL @I308@
+1 CHIL @I309@
+1 CHIL @I310@
+1 CHIL @I311@
+1 CHIL @I312@
+1 CHIL @I313@
+1 MARR
+0 @F98@ FAM
+1 HUSB @I314@
+1 WIFE @I315@
+1 CHIL @I322@
+1 CHIL @I295@
+1 CHIL @I316@
+1 CHIL @I317@
+1 CHIL @I318@
+1 CHIL @I320@
+1 CHIL @I319@
+1 CHIL @I321@
+1 MARR
+0 @F99@ FAM
+1 HUSB @I323@
+1 WIFE @I324@
+1 CHIL @I315@
+1 CHIL @I334@
+1 CHIL @I335@
+1 CHIL @I336@
+1 CHIL @I337@
+1 MARR
+0 @F100@ FAM
+1 HUSB @I325@
+1 WIFE @I326@
+1 CHIL @I324@
+1 CHIL @I327@
+1 CHIL @I328@
+1 CHIL @I329@
+1 CHIL @I330@
+1 CHIL @I331@
+1 CHIL @I332@
+1 CHIL @I333@
+1 MARR
+0 @F125@ FAM
+1 HUSB @I397@
+1 WIFE @I398@
+1 CHIL @I396@
+1 CHIL @I409@
+1 MARR
+0 @F127@ FAM
+1 HUSB @I410@
+1 WIFE @I412@
+1 CHIL @I413@
+1 CHIL @I414@
+1 CHIL @I415@
+1 CHIL @I416@
+1 CHIL @I417@
+1 CHIL @I418@
+1 CHIL @I419@
+1 CHIL @I397@
+1 CHIL @I420@
+1 MARR
+0 @F128@ FAM
+1 HUSB @I426@
+1 WIFE @I427@
+1 CHIL @I410@
+1 MARR
+0 TRLR
