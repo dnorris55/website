@@ -1,0 +1,323 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="myhtml_files/filelist.xml">
+<link rel=Edit-Time-Data href="myhtml_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Dave's Automatic Weather Station</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="State"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Dave</o:Author>
+  <o:LastAuthor>Dave</o:LastAuthor>
+  <o:Revision>5</o:Revision>
+  <o:TotalTime>2</o:TotalTime>
+  <o:Created>2009-01-21T16:12:00Z</o:Created>
+  <o:LastSaved>2009-01-21T17:14:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>187</o:Words>
+  <o:Characters>1069</o:Characters>
+  <o:Lines>8</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1254</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.leading200, li.leading200, div.leading200
+	{mso-style-name:leading200;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	line-height:200%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.leading180, li.leading180, div.leading180
+	{mso-style-name:leading180;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	line-height:180%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.leading150, li.leading150, div.leading150
+	{mso-style-name:leading150;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	line-height:150%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.leading100, li.leading100, div.leading100
+	{mso-style-name:leading100;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+<meta http-equiv=keywords
+content="freewx-wi, Freewx, FreeWX-Wi, weather, Weather">
+<meta http-equiv=REFRESH content=480>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="3074"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<!body bgcolor="green" text="white" link="yellow" vlink="purple" alink="red">
+<!body bgcolor="firebrick" text="white" link="yellow" vlink="purple" alink="red">
+
+<body bgcolor=white background=bg-rain.gif lang=EN-US link=blue vlink=blue
+style='tab-interval:.5in' bgproperties=fixed>
+
+<div class=Section1>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=4 cellpadding=0 width="98%"
+ style='width:98.0%;mso-cellspacing:3.0pt;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:103.5pt'>
+  <td colspan=3 style='padding:0in 0in 0in 0in;height:103.5pt'>
+  <p align=center style='text-align:center'><b><span style='font-size:18.0pt;
+  font-family:Arial'>Dave's Automatic Weather Station</span></b></p>
+  <p align=center style='text-align:center'><st1:place w:st="on"><st1:City
+   w:st="on"><b><span style='font-size:13.5pt;font-family:Arial'>Lucasville</span></b></st1:City><b><span
+   style='font-size:13.5pt;font-family:Arial'>, <st1:State w:st="on">Ohio</st1:State></span></b></st1:place><b><span
+  style='font-size:13.5pt;font-family:Arial'> </span></b></p>
+  <p align=center style='text-align:center'><b><span style='font-family:Arial'>Weather
+  conditions at 16:20:50 local time on June 17
+  2012</span></b></p>
+  <div class=MsoNormal align=center style='text-align:center'>
+  <hr size=2 width="100%" align=center>
+  </div>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes;height:212.25pt'>
+  <td width=331 valign=top style='width:248.25pt;padding:0in 0in 0in 0in;
+  height:212.25pt'>
+  <p><b>Temperature<br>
+  Humidity<br>
+  Barometer<br>
+  Wind Chill<br>
+  Dew Point<br>
+  Heat Index<br>
+  Wind Speed (gust)<br>
+  Wind Speed (average 10 minutes)<br>
+  Wind Direction (gust)<br>
+  Wind Direction (average 10 minutes)<br>
+  Rainfall Rate<br>
+  Rainfall<br>
+  Indoor Temperature<br>
+  Indoor Humidity<br>
+  Forecast (According to weather station)</b></p>
+  </td>
+  <td width=476 valign=top style='width:357.0pt;padding:0in 0in 0in 0in;
+  height:212.25pt'>
+  <p><b><span style='color:maroon'>+79.2 &#176;F<br>
+  <!/font><!font color="aqua">32 %<br>
+  <!/font><!font color="aqua">29.26 In.Hg and Falling<br>
+  <!/font><!font color="aqua">+78.8 &#176;F<br>
+  <!/font><!font color="aqua">+46.8 &#176;F<br>
+  <!/font><!font color="aqua">+78.2 &#176;F<br>
+  <!/font><!font color="aqua">6.3 MPH<br>
+  <!/font><!font color="aqua">2.7 MPH<br>
+  <!/font><!font color="aqua">188&#176; (S)<br>
+  <!/font><!font color="aqua">165&#176; (S)<br>
+  <!/font><!font color="aqua">0 In./hour<br>
+  <!/font><!font color="aqua">0.2 In. since Midnight<br>
+  <!/font><!font color="aqua">+70.7 &#176;F<br>
+  <!/font><!font color="aqua">51 %<br>
+  <!/font><!font color="aqua">Rain</span></b></p>
+  </td>
+  <!/font>
+  <td width=10 style='width:.1in;padding:0in 0in 0in 0in;height:212.25pt'>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:10.0pt;font-family:Arial;color:green'><!--empty--><o:p></o:p></span></b></p>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p align=center style='text-align:center'><b><span style='font-family:Arial'>Extreme
+conditions since Midnight</span></b></p>
+
+<p align=center style='text-align:center'>&nbsp; </p>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=4 cellpadding=0 width="98%"
+ style='width:98.0%;mso-cellspacing:3.0pt;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:107.25pt'>
+  <td width=331 valign=top style='width:248.25pt;padding:0in 0in 0in 0in;
+  height:107.25pt'>
+  <p><b>Maximum Temperature<br>
+  Minimum Temperature<br>
+  Maximum Humidity<br>
+  Minimum Humidity<br>
+  Maximum Wind (gust)<br>
+  Maximum Barometric Pressure<br>
+  Minimum Barometric Pressure<br>
+  Maximum Rainfall Rate</b></p>
+  <p>&nbsp;</p>
+  </td>
+  <td width=476 valign=top style='width:357.0pt;padding:0in 0in 0in 0in;
+  height:107.25pt'>
+  <p><b><span style='color:maroon'>+79.3 &#176;F at 16:07<br>
+  <!/font><!font color="maroon"><!font color="aqua">+68.9 &#176;F at 13:40<br>
+  <!/font><!font color="aqua">63 % at 14:04<br>
+  <!/font><!font color="aqua">32 % at 16:20<br>
+  <!/font><!font color="aqua">8.1 MPH, 128&#176; at 15:04<br>
+  <!/font><!font color="aqua">29.35 In.Hg at 12:09<br>
+  <!/font><!font color="aqua">29.26 In.Hg at 16:20<br>
+  <!/font><!font color="aqua">1.14 In./hour at 12:57</span></b></p>
+  </td>
+ </tr>
+ <!/font>
+</table>
+
+</div>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p align=center style='text-align:center'>Page auto updates every 8 minutes....
+<font size="-1">Powered by Andy Keir's <B>FreeWX-Wi</b> program.</font><BR> </p>
+
+<p align=center style='text-align:center'>&nbsp;</p>
+
+<p class=MsoNormal align=center style='text-align:center'><a
+href="weather1.html">Additional Weather info </a>- <a href="weather4.html">24
+hr graphs </a>- <a href="freewxsummary.html">Month Summary </a></p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<card title="FreeWX WAP">
+<p>
+Someplace Weather at:<br/>
+16:20:50 on 17 June<br/>
+Temperature +79.2 Deg.F<br/>
+Humidity: 32 %<br/>
+Barometer:<br/>
+29.26 In.Hg and Falling<br/>
+Wind (gust):<br/>
+6.3 MPH from 188 Deg. (S)<br/>
+Wind (avg. 10 min.):<br/>
+2.7 MPH from 165 Deg. (S)<br/>
+Wind Chill: +78.8 Deg.F<br/>
+Dew Point: +46.8 Deg.F
+</p>
+</card>
+ 
+</wml>
