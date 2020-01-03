@@ -1,0 +1,81 @@
+Shastao's Tips for the amateur Mordor DungeonMaster (and hosts)
+
+Table of Contents
+-I. Introduction
+-II. Getting Started
+--IIa. Why won't it load the rooms?
+--IIb. How do I make myself a DM?
+-III. How to make items good
+-IV. How to make shops good
+-V. Getting additional help
+-VI. And what about making additional classes/races?
+
+
+
+
+I. Introduction:
+
+  Hello all you amateur Mordor DMs and hosts. Frustrated at something? See if any of these sections help. And if you wanted
+to download the stuff just go to www.shareware.com and search for "Mordor". Thats how i found it :)
+
+II. Getting Started
+
+  After downloading your zip file (which btw the unzipped part takes up a rather large chunk of my hard drive) you should
+unzip it in your main hard drive (usually C) in the folder C:\home\mordor. After a bit of waiting (i spent it thinking on 
+what i was going to do once i got it running) and after all that, you run mordor.exe in /bin/95 (or /bin/nt, depending on OS)
+and what's the first thing you see? A blank screen. How sad (joking.) Actually it is running at that moment. Use zMUD or 
+telnet to log into it, using either your online ip or your local machine ip (i.e. 192.168.0.1, windows will tell you for 
+sure...) and use Tesseract for now. His default password is always "dmname".
+
+IIa. Why won't it load the rooms?
+
+  Whats that? It won't load your rooms? (chuckle) Ok, i ran into that problem too. After several experiments, I found out
+that it works best if you copy mordor.exe and editor.exe into your /players directory. Type "*shutdown 0" and restart mordor.
+Does it work now? If it doesn't, e-mail to me at dnorris@zoomnet.net and ill see if i can help you any.
+
+IIb. How do I make myself a DM?
+
+  Two ways:
+
+Way #1: Using Tesseract to make you some wierd thing by typing "*set p (target-char) c 15"
+
+Way #2: Editing the mordor.cf file in the /bin directory, search for [DM's names] in it. Edit/add the char name of your
+choice. Load the game, and when it asks for a password to create your char, enter NaZg0OL (if you havent written it down yet)
+
+III. How to make items good
+
+  I have found its best to use editor.exe to make both creatures and objects. The most important things in creature making 
+is: 1. Name/desc/talk; 2. Keys (not as in a key to unlock a door but a key to use it (i.e. Zombie Man key1: zombie; key2: man
+key3: <nothing> ) 3. Stats (adjust them to your personal pleasure) 4. Flags (type "*dm cflags" for more info)
+
+IV. How to make shops good
+
+  Ah, making shops now, are we? I'll tell ya what. Go to /docs/dm/ and look at dm.doc for more infomation. If you're not up
+to searching, remember these steps:
+
+Step 1: using "*c <item#>" to add the items in your inventory that youre going to add to the shop.
+Step 2: using "*add r <any # above 7000>" to make a room.
+Step 3: repeat step 2 except you must increase the room # by 1 (i call it a storeroom)
+Step 4: using "*set x <exit> <your rm#>" to make an exit to the shop's room
+Step 5: using "*save" to save that room (this step is important)
+Step 6: setting an exit out to the host room like step 4
+Step 7: Repeat step 5 in the shop's main room
+Step 8: use "*t <shop's storeroom #>" to go there
+Step 9: use "*set r f 13" to keep players from teleporting there and ruining your business :(
+Step 10: use "*set o <object> f 9"
+Step 11: repeat step 9 except replace flag #9 with flag #10
+Step 12: drop the item
+Step 13: If additional items, repeat steps 10-12.
+Step 14: Use "*perm (item)"
+Step 15: Repeat step 14 until all items are permed. Congrats! You have just made a store!
+
+V. Getting additional help
+
+  So, what i included in here didn't cover what you needed? E-mail to me at dnorris@zoomnet.net and ill see if i can help.
+Afar from that, you're on your own.
+
+VI. And what about making additional classes/races?
+
+  You're on your own on that, buddy. I will tell you that you need a C compiler and to edit mordor.exe, and that you need to
+make an additional flag(s) to be able to make training area(s) for that class. It is possable to make restrictions on those,
+too. The sky (and your hard drive) is the limit! Have fun! - Shastao (dnorris@zoomnet.net)

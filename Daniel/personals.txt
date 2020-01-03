@@ -1,0 +1,28 @@
+Personalized Item Report (As calculated by Shastao)
+
+Item Name   Regular Price   Cost with Curse   Cost with NevrBreak   Cost with Both
+----------------------------------------------------------------------------------
+Body Armor         150.0k            165.0k                750.0k           825.0k
+Headwear            75.0k             82.5k                375.0k           412.5k
+Mask                45.0k             49.5k                225.0k           247.5k
+Neckwear            15.0k             16.5k                 75.0k            82.5k
+Sleeves             65.0k             71.5k                325.0k           357.5k
+Gloves              35.0k             38.5k                175.0k           192.5k
+Two Rings*          14.0k             15.4k                 70.0k            77.0k
+Pants               65.0k             71.5k                325.0k           357.5k
+Boots               35.0k             38.5k                175.0k           192.5k
+----------------------------------------------------------------------------------
+Grand Total        499.0k            548.9k              2,495.0k         2,744.5k
+
+
+Note: These prices are subject to change as of 04/20/1998
+
+*- Divide the cost of the two rings and add/subtract for desired amounts.
+
+Note: This does NOT include weapons. 
+
+Note: If you are really interested in a full set, check your wallet. The best stuff costs
+2,744,500 gold. Wow.
+
+Note: I didn't add the cost of the light because Shastao is an elf and apparently he can
+see in the dark. I am not sure though.
