@@ -6,62 +6,8 @@
 <META NAME="description" CONTENT="Daves Favorite New Links">
 <link rel="icon" type="image/ico" href="favicon.ico"></link>
 <link rel="shortcut icon" href="favicon.ico"></link>
-<!---------------->
-<SCRIPT language="JavaScript">
-function navigate(form) 
-{
- var go = (form.linkList.options[form.linkList.selectedIndex].value);
- document.location.href=go;
-}
-</SCRIPT>
-<!---------------->
-<script Language="JavaScript">
-
-function gettheDate() {
-        Todays = new Date();
-        TheDate = "" + (Todays.getMonth()+ 1) +" / "+ Todays.getDate() + " / " + 
-        Todays.getYear(); 
-        document.clock.thedate.value = TheDate;
-        }
-var timerID = null;
-var timerRunning = false;
-function stopclock (){
-        if(timerRunning)
-                clearTimeout(timerID);
-        timerRunning = false;
-}
-function startclock () {
-        stopclock();
-        gettheDate()
-        showtime();
-}
-function showtime () {
-        var now = new Date();
-        var hours = now.getHours();
-        var minutes = now.getMinutes();
-        var seconds = now.getSeconds()
-        var timeValue = "" + ((hours >12) ? hours -12 :hours)
-        timeValue += ((minutes < 10) ? ":0" : ":") + minutes
-        timeValue += ((seconds < 10) ? ":0" : ":") + seconds
-        timeValue += (hours >= 12) ? " P.M." : " A.M."
-        document.clock.face.value = timeValue;
-        // you could replace the above with this
-        // and have a clock on the status bar:
-        // window.status = timeValue;
-        timerID = setTimeout("showtime()",1000);
-        timerRunning = true;
-}
-// end Hide -->
-</script>
-
 </HEAD>
-<!--BODY  background="Images/blutextb.gif" bgproperties="fixed" onLoad="startclock()"-->
 <BODY  background="Images/bg-bkgrd.gif" bgproperties="fixed" onLoad="startclock()">
-<!--body bgcolor="#000000" text="Yellow" link="Lightblue" vlink="Red"  background="Images/blckstar.jpg" bgproperties="fixed" onLoad="startclock()"-->
-<!--body bgcolor="#FFFFFF" link="#000000" vlink="#808080" onLoad="startclock()"-->
-<!--body BGCOLOR="#A4C8F0" -->
-<!--body BGCOLOR="Lightblue" -->
-
 <p>
 <!-- LAST MODIFIED DATE -->
 <SCRIPT LANGUAGE="JavaScript">
@@ -81,7 +27,7 @@ document.write("<I>This Page Was Last Updated:"+document.lastModified+"</I>");
 <hr size=3 width=90%> 
 <center>
 <!--------------->
-<A href="https://www.wunderground.com/maps/radar/current/day">Columbus Weather Radar </a>
+<A href="https://www.wunderground.com/maps/radar/current/day">Ohio Weather Radar </a>
 
 <A href="http://www.historychannel.com/today/"><img height="80" width="260" src="Images/thisday.gif" border=0></a>
 
@@ -92,8 +38,6 @@ document.write("<I>This Page Was Last Updated:"+document.lastModified+"</I>");
 <A href="http://ohiostatebuckeyes.com/"><img src="Images/osu.gif" border=0>Athletics Site</a>
 <br>
 
-<p align="center"><span style="background-color: #FFFF00">
-<A HREF="http://sciotocountyfair.org/"> Scioto County Fair </A></span></p>
 <hr>
 <A HREF="https://www.aepohio.com/"> AEP Ohio </A> --
 <A HREF="https://www.aetna.com/"> Aetna Health </A> --
@@ -1257,11 +1201,11 @@ document.write("<I>This Page Was Last Updated:"+document.lastModified+"</I>");
 </p>
 <center>
 
-<img src="Images/new3.gif"><A HREF="photoindex.html"> Additional photos are here... </A> --
-<p>
-<img src="Images/new3.gif"><A HREF="osuindex.html"> OSU files </A> --
+<img src="Images/new3.gif"><A HREF="photoindex.html"> Additional photos are here... </A> -- 
+<A HREF="osuindex.html"> OSU files </A> --
 </center>
-
+<p align="center"><span style="background-color: #FFFF00">
+        <A HREF="http://sciotocountyfair.org/"> Scioto County Fair </A></span></p>
 <br>
 <center>
 <A href="http://www.dot.state.oh.us/dist9/oldpio/norriseo.htm">
@@ -1271,19 +1215,6 @@ Check out the ODOT District 9 Employee of the Month (August 97)</A>
 <A href="gen/debra/index.htm"> Debra Wheeler Norris Ancestors </A>
 <hr>
 
-
-<TABLE Border=0>
-<form name="clock" onSubmit="0">
-<TR>
-<TD><center>Time<br></center></td>
-<TD><center>Date</center></TD>
-</tr>
-<tr>
-<td><input type="text" name="face" size=12 value=""></td>
-<td><input type="text" name="thedate" size=14 value=""></td>
-</form>
-</TR>
-</TABLE>
 <p align=center>You are visitor number 
 
 <a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter7.wheredoyoucomefrom.ovh/private/freecounterstat.php?c=n9sxgcu1kkwa86nwbdh7kqfue4ehd6hg" border="0" title="free hit counter" alt="free hit counter"></a>
