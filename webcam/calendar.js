@@ -1,11 +1,11 @@
-<!-- TWO STEPS TO INSTALL THIS SCRIPT -->
+// TWO STEPS TO INSTALL THIS SCRIPT 
 
-<!-- STEP ONE: Place the following script into a separate JavaScript file called: calendar.js	 -->
+// STEP ONE: Place the following script into a separate JavaScript file called: calendar.js	 
 
-<!-- This script and many more are available free online at -->
-<!-- The JavaScript Source!! http://javascript.internet.com -->
+// This script and many more are available free online at 
+// The JavaScript Source!! http://javascript.internet.com 
 
-<!-- Begin
+// Begin 
 //  SET ARRAYS
 var day_of_week = new Array('Sun','Mon','Tue','Wed','Thu','Fri','Sat');
 var month_of_year = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
