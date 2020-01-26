@@ -1,0 +1,29 @@
+h3{
+    color: cornflowerblue;
+
+}
+
+.first-title{
+    color:red;
+}
+
+#youtube-link{
+    color:black;
+}
+
+
+.classname h1{
+    color:darkmagenta;
+}
+
+
+* {
+    font-size:20px;
+}
+
+.my-list + ul {
+    list-style:none;
+}
+
+
+
