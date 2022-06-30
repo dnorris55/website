@@ -9,4 +9,5 @@ git add webcam32.jpg
 git commit -am "upload new webcam images"
 
 git push 
+pause
 
